@@ -1,1 +1,17 @@
 This is the calorie counter for my website
+
+<!DOCTYPE html>
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="LAFstylepage.css">
+	<title>Caloric Needs Page</title>
+</head>
+<body>
+	<h1>Caloric Needs Calculator</h1>
+
+
+
+
+
+</body>
+</html>
